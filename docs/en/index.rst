@@ -10,7 +10,7 @@ The `Moodle Fields Suite <https://moodle-fields-suite.github.io>`_ adds custom f
 * **Display:** area plugins show the visible values on core pages, next to the element they choose.
 * **Web service:** ``local_fieldssuite_get_values`` returns the values of the items the user can see.
 
-It does nothing on its own: install it together with an area plugin, such as `tool_categorycustomfields <https://moodle-fields-suite.github.io/tool_categorycustomfields/>`_.
+It does nothing on its own: install it together with an area plugin, such as `tool_categorycustomfields <https://moodle-fields-suite.github.io/moodle-tool_categorycustomfields/>`_.
 
 Versão em português: `Português (Brasil) <../pt-br/index.html>`_.
 
@@ -24,4 +24,4 @@ Versão em português: `Português (Brasil) <../pt-br/index.html>`_.
 Links
 -----
 
-* Source code and issues: https://github.com/moodle-fields-suite/local_fieldssuite
+* Source code and issues: https://github.com/moodle-fields-suite/moodle-local_fieldssuite

@@ -12,7 +12,7 @@ Os plugins de área da suíte declaram este plugin como dependência: o Moodle p
 A partir de um arquivo ZIP
 --------------------------
 
-1. Baixe ``local_fieldssuite-<versão>.zip`` nas `releases <https://github.com/moodle-fields-suite/local_fieldssuite/releases>`_.
+1. Baixe ``local_fieldssuite-<versão>.zip`` nas `releases <https://github.com/moodle-fields-suite/moodle-local_fieldssuite/releases>`_.
 2. Acesse *Administração do site > Plugins > Instalar plugins*, envie o ZIP e siga os passos.
 3. Conclua a atualização em *Administração do site > Notificações*.
 
@@ -23,7 +23,7 @@ Copie o repositório para ``local/fieldssuite`` (``public/local/fieldssuite`` no
 
 .. code-block:: bash
 
-   git clone https://github.com/moodle-fields-suite/local_fieldssuite.git public/local/fieldssuite
+   git clone https://github.com/moodle-fields-suite/moodle-local_fieldssuite.git public/local/fieldssuite
 
 Idiomas
 -------
