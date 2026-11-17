@@ -10,7 +10,7 @@ A `Moodle Fields Suite <https://moodle-fields-suite.github.io>`_ acrescenta camp
 * **Exibição:** os plugins de área mostram os valores visíveis em páginas do Moodle, junto ao elemento que escolherem.
 * **Web service:** ``local_fieldssuite_get_values`` devolve os valores dos itens que o usuário pode ver.
 
-Sozinho ele não faz nada: instale-o junto com um plugin de área, como o `tool_categorycustomfields <https://moodle-fields-suite.github.io/tool_categorycustomfields/>`_.
+Sozinho ele não faz nada: instale-o junto com um plugin de área, como o `tool_categorycustomfields <https://moodle-fields-suite.github.io/moodle-tool_categorycustomfields/>`_.
 
 English version: `English <../en/index.html>`_.
 
@@ -24,4 +24,4 @@ English version: `English <../en/index.html>`_.
 Links
 -----
 
-* Código-fonte e issues: https://github.com/moodle-fields-suite/local_fieldssuite
+* Código-fonte e issues: https://github.com/moodle-fields-suite/moodle-local_fieldssuite

@@ -12,7 +12,7 @@ The area plugins of the suite declare this plugin as a dependency: Moodle asks f
 From a ZIP file
 ---------------
 
-1. Download ``local_fieldssuite-<version>.zip`` from the `releases <https://github.com/moodle-fields-suite/local_fieldssuite/releases>`_.
+1. Download ``local_fieldssuite-<version>.zip`` from the `releases <https://github.com/moodle-fields-suite/moodle-local_fieldssuite/releases>`_.
 2. Go to *Site administration > Plugins > Install plugins*, upload the ZIP and follow the steps.
 3. Finish the upgrade at *Site administration > Notifications*.
 
@@ -23,7 +23,7 @@ Copy the repository to ``local/fieldssuite`` (``public/local/fieldssuite`` on Mo
 
 .. code-block:: bash
 
-   git clone https://github.com/moodle-fields-suite/local_fieldssuite.git public/local/fieldssuite
+   git clone https://github.com/moodle-fields-suite/moodle-local_fieldssuite.git public/local/fieldssuite
 
 Languages
 ---------

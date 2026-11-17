@@ -2,7 +2,7 @@
 
 [English](#english) · [Português (Brasil)](#português-brasil)
 
-Documentation / Documentação: <https://moodle-fields-suite.github.io/local_fieldssuite/>
+Documentation / Documentação: <https://moodle-fields-suite.github.io/moodle-local_fieldssuite/>
 
 ## English
 
@@ -23,7 +23,7 @@ Instalação: copie este repositório para `local/fieldssuite` (`public/local/fi
 
 ## Support and privacy / Suporte e privacidade
 
-- Issue tracker / Rastreador de issues: <https://github.com/moodle-fields-suite/local_fieldssuite/issues>
+- Issue tracker / Rastreador de issues: <https://github.com/moodle-fields-suite/moodle-local_fieldssuite/issues>
 - Privacy / Privacidade: the plugin stores nothing on its own; each area plugin declares the data of its entity / o plugin não guarda nada por conta própria; cada plugin de área declara os dados da sua entidade.
 - Translations / Traduções: only English is shipped; other languages go through AMOS / o pacote traz só inglês; outros idiomas via AMOS.
 
